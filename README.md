@@ -22,7 +22,7 @@ pod 'BlinkingLabel'
 
 ## Author
 
-MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECGN44y6BRqIpBBgCgnk9jNdWcRJZE3T7u6bmn7TfRScywfw=, qichaofan66@163.com
+Alex.chen, 237370905@qq.com
 
 ## License
 
