@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+test project
                        DESC
 
-  s.homepage         = 'https://github.com/MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECGN44y6BRqIpBBgCgnk9jNdWcRJZE3T7u6bmn7TfRScywfw=/BlinkingLabel'
+  s.homepage         = 'https://github.com/237370905/BlinkingLabel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECGN44y6BRqIpBBgCgnk9jNdWcRJZE3T7u6bmn7TfRScywfw=' => 'qichaofan66@163.com' }
-  s.source           = { :git => 'https://github.com/MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECGN44y6BRqIpBBgCgnk9jNdWcRJZE3T7u6bmn7TfRScywfw=/BlinkingLabel.git', :tag => s.version.to_s }
+  s.author           = { 'wenpeng_chen' => '237370905@qq.com' }
+  s.source           = { :git => 'https://github.com/237370905/BlinkingLabel.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
